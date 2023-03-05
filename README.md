@@ -42,7 +42,7 @@ P.S. 该口令作为打开微信小程序时第一条发给小程序的口令，
 6. 在 shell/terminal/命令提示符中, 进入server目录, 运行（mac和部分linux请将python更换为python3）
 python main.py
 
-7. 如果好用，卑微求个star，谢谢！🙏
+7. 如果好用，[卑微求个star](https://github.com/YahooKID/chatgpt_wechat)，谢谢！🙏
 
 问题咨询请提issue
 
